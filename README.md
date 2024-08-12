@@ -18,7 +18,7 @@ Ease of Use: Drag-and-drop interface makes it accessible to users without deep t
 Tableau is widely used in various industries for making data-driven decisions and uncovering hidden trends, patterns, and insights.
 
 
-### Overview
+### Overview of Netflix-Dashboard-Streaming-Service-Performance
 This project involves the creation of an interactive Netflix Dashboard using Tableau to analyze and visualize the performance of Netflix as a streaming service. The dashboard provides insights into various key metrics such as user engagement, content performance, revenue trends, and subscriber growth.
 
 ### Features
